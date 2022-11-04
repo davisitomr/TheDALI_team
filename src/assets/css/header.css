@@ -1,0 +1,31 @@
+/*CSS for Header Styling*/
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700;800&display=swap');
+
+nav {
+    float:inline;
+    padding: 0.65px;
+    margin: 15px;
+
+}
+
+img {
+    float:left;
+}
+
+nav.ul {
+    background-color: #0077ff;
+  }
+
+li {
+    list-style-type: none;
+    display:inline;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+}
+
+a {
+    display: inline;
+    padding: 8px;
+
+  }
