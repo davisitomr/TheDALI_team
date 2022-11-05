@@ -1,0 +1,14 @@
+/*THE DALI TEAM (C) 2022
+Created by: David Muñoz & Alicia Fernández
+#CODERS #ROMPEMOSLOSCODIGOS #EDUCATIONAL*/
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700;800&display=swap');
+
+footer p {
+    float: inline;
+    display: inline;
+    padding: 50px -3px;
+    margin: -5px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+}

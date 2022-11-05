@@ -1,0 +1,61 @@
+/*THE DALI TEAM (C) 2022
+Created by: David Muñoz & Alicia Fernández
+#CODERS #ROMPEMOSLOSCODIGOS #EDUCATIONAL*/
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700;800&display=swap');
+
+#services-page {
+    background-color: rgb(211, 211, 219);
+    float: right;
+    padding: 15px;
+    margin: 10px;
+    width: 500px;
+    height: 282px;
+}
+
+#services-page h2 {
+    margin: 10px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight:800
+}
+
+
+#services-page p {
+    margin: 10px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.service {
+    background-color: rgb(21, 165, 208);
+    float: left;
+    padding: 15px;
+    margin: 10px;
+    width: 290px;
+    height: 282px;
+}
+
+.service p {
+    margin:-1px;
+    font-family: 'Open Sans', sans-serif;
+    color:white
+}
+
+.service h2 {
+    color:white;
+    margin: -1px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 500;
+}
+
+.service dt {
+    padding:2.25px;
+    margin:2.30px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    color:white;
+}
+
+.service dd {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    color:white;
+}
