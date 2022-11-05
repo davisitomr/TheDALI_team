@@ -1,0 +1,56 @@
+#tools-page {
+   background-color: rgb(211, 211, 219);
+    float: left;
+    padding: 15px;
+    margin: 10px;
+    width: 290px;
+    height: 282px;
+}
+
+#tools-page h2 {
+    margin: 10px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight:800
+}
+
+
+#tools-page p {
+    margin: 10px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.tools {
+    background-color: rgb(140, 243, 135);
+     float: left;
+     padding: 15px;
+     margin: 10px;
+     width: 500px;
+     height: 282px;
+ }
+ 
+ .tools h2 {
+     margin: 10px;
+     font-family: 'Open Sans', sans-serif;
+     font-weight:800
+ }
+ 
+ 
+ .tools p {
+     margin: 10px;
+     font-family: 'Open Sans', sans-serif;
+ }
+
+ .tools button {
+    border: black 2px solid;
+    margin:2px 10px;
+    width: 160px;
+    height: 100px;
+    float: right;
+ }
+
+ .tools img {
+    float:inline;
+    width: 130px;
+    padding:0px 50px;
+    margin: -6px -45px;
+ }
